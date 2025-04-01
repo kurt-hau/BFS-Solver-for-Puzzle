@@ -2,7 +2,8 @@
 Java program that creates a puzzle game to be played and also a class that can solve the puzzle in the shortest way possible
 
 Board Class: Creates the functionality for the game board to run
-Display Class: Utilizes graphics to create a visual and playable board
+Display Class: Utilizes graphics to create a visual board
+Game Class: Allows the game to be played via the visual representation
 Board 2 Class: Only the necessary functionality to allow for the board to be solved and save runtime
 Solver Class: A Breadth First Search Approach to solving the game board in the least amount of moves
 
